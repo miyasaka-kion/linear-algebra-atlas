@@ -1,0 +1,15 @@
+# Dependencies & build output
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Reference PDFs (NEVER commit copyrighted/external book PDFs)
+ref/
+*.pdf
+
+# OS & editor files
+.DS_Store
+.env
+.env.*
+*.log
